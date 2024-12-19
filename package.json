@@ -1,0 +1,16 @@
+{
+  "name": "mobius-reading-list-a-journey-through-books",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [],
+  "author": "cuimingda@gmail.com",
+  "license": "ISC",
+  "description": "Mobius Reading List: A Journey Through Books",
+  "devDependencies": {
+    "honkit": "^6.0.2"
+  }
+}
